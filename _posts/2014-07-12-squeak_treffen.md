@@ -11,10 +11,10 @@ Samstag, 12. Juli 2014 ab 13:00
 **Wo?**
 
 Hasso-Plattner-Institut
-Prof.-Dr.-Helmert-Straße 2-3
-14482 Potsdam
+<br /> Prof.-Dr.-Helmert-Straße 2-3
+<br /> 14482 Potsdam
 
-Anfahrt: <http://www.hpi.uni-potsdam.de/hpi/campus/anfahrt.html>
+<http://www.hpi.uni-potsdam.de/hpi/campus/anfahrt.html>
 
 **Inhalt?**  
 
