@@ -8,9 +8,9 @@ cols:       6
 Hierbei handelt es sich um die englischsprachige Entwicklungsumgebung
 Squeak.  Im Gegensatz zum Etoys-Paket richtet sich diese Downloads
 an fortgeschrittene Entwickler. Sie funktionieren unter
-Windows, OS X und Linux: Einfach herunterladen, entpacken und auf die
-entsprechende Datei doppelklicken: `*.bat` für Windows, `*.app` für OS
-X und `*.sh` für Linux.
+Windows, Mac OS X und Linux: Einfach herunterladen, entpacken und auf die
+entsprechende Datei doppelklicken: `*.bat` für Windows, `*.app` für Mac
+OS X und `*.sh` für Linux.
 
 |            | Version   | Support   | Link   |
 | ---------- |:--------- |:--------- | ------:|
