@@ -11,7 +11,7 @@ href:       /static/files/Taschenrechner.pdf
 
 Dank Herrn Fels und seiner Mädchen-Informatik AG gibt es auch ein
 ausführliches Tutorial, in welchem erst erklärt wird, wie man einen
-Taschenrechner mit Etoys bauen kann, um dann langsam auch einfache
+Taschenrechner mit Etoys bauen kann, um daran auch einfache
 Grundelemente von Smalltalk einzuführen. [Webseite][website]{:target="_blank"}
 
 [website]: http://www.gym-st-wolfhelm.de/faecher/informatik/VergangeneKurse/infag08/index.html
