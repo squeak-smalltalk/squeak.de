@@ -5,15 +5,15 @@ order:      2
 cols:       6
 ---
 
-- lernorientierte visuelle Programmierumgebung
-- Online-Community zentral
-- Theatermetaphorik: Figuren in Kostümen führen in einer Bühne Regieanweisungen aus
+- Lernorientierte visuelle Programmierumgebung
+- Zentrale Online-Community
+- Theatermetaphorik: Figuren in Kostümen führen auf einer Bühne Regieanweisungen aus
 
 ##### Programmieren mit Scratch
 
-- grafische Programmierblöcke
-- klassische Kontrollstukturen
-- globale und private Variablen und Listen
-- beschränkt auf Typen Zahl oder Zeichenkette
-- keine Rückgabewerte
+- Grafische Programmierblöcke
+- Klassische Kontrollstukturen
+- Globale und private Variablen und Listen
+- Beschränkt auf die Typen Zahl oder Zeichenkette
+- Keine Rückgabewerte
 - Kommunikation nur über globale Variablen und Broadcast-Nachrichten
