@@ -44,4 +44,4 @@ Vereinsversammlung (17:00 - 18:00)
 Anschließend Ausklang in gemütlicher Runde in Potsdam (ab 18:30)
 
 Vielen Dank an die Arbeitsgruppe Software-Architekturen des HPI 
-für die alljährliche Organisation und Bereitstellung von Räumlichkeiten.
+für die Organisation und Bereitstellung von Räumlichkeiten.
