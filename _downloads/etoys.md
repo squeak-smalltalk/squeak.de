@@ -5,11 +5,11 @@ order:      1
 cols:       6
 ---
 
-Das Etoys Paket bietet eine kachelbasierte Programmierumbgebung, die
-besonders für Kinder geeignet ist. Die Etoys-To-Go Version kann direkt
-und ohne Installation ausgeführt werden, und hinterlässt keine Spuren
+Das Etoys-Paket bietet eine kachelbasierte Programmierumbgebung, die
+besonders für Kinder geeignet ist. Die Etoys-To-Go-Version kann direkt
+und ohne Installation ausgeführt werden und hinterlässt keine Spuren
 auf dem Computer. Damit ist dieses Paket besonders bei Schulen sehr
-beliebt, da man es z.B. direkt vom USB Stick starten kann.
+beliebt, da man es beispielsweise direkt von einem USB Stick starten kann.
 
 |            | Version   | Support   | Link   |
 | ---------- |:--------- |:--------- | ------:|
