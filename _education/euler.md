@@ -11,6 +11,6 @@ href-external:  false
 ---
 
 [Projekt Euler](http://www.projecteuler.net){:target="_blank"} ist eine Webseite,
-auf der Problemstellungen aus dem Bereich der Mathematik und der
+auf der Problemstellungen aus den Bereichen der Mathematik und der
 Informatik zu finden sind. Der Squeak Deutschland e.V. stellt hier die
 Lösungen der ersten 25 Probleme als Algorithmen bereit.
