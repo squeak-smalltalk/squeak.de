@@ -20,17 +20,6 @@ Anfahrt: <http://www.hpi.uni-potsdam.de/hpi/campus/anfahrt.html>
 
 Vorträge und Demos (13:00 - 17:00)
 
-- Morphic Testing Framework (Marvin Bornstein)
-- Scamper Browser (Jennifer Stamm)
-- Squeak/Smalltalk im Web Browser (Bert Freudenberg)
-- Objektorientierte Methode zur Softwarenentwicklung - Rollenmodellierung (Peter Werner)
-- SpaceFight (Eric Seckler)
-- PhidgetLab (Fabian Wiebe)
-- Squeak in der Grundschule (Esther Mietzsch)
-- Scratch: Power to the Kids (Till Juan und Norbert Kerkhey)
-- Tools bauen in Squeak (Marcel Taeumel)
-- Babelsberg (Tim Feigentreff)
-
 - Data-Flow-Programming mit Vivide (Marcel Taeumel)
 - R/Squeak (Tim Felgentreff)
 - Constraint-basierte Programmierung (Tim Felgentreff)
