@@ -9,6 +9,7 @@ img-border: true
 href:       /static/files/arbeitsblatt.pdf
 ---
 
-Zum schnellen Start gibt es ein [Arbeitsblatt](/static/files/arbeitsblatt.pdf){:target="_blank"} von Esther
-Mietsch. Hier wird vom Start von Etoys zu den grundlegenden Elementen
-der Umgebung alles vorgestellt.
+Zum schnellen Einstieg gibt es ein
+[Arbeitsblatt](/static/files/arbeitsblatt.pdf){:target="_blank"} von
+Esther Mietsch. Hier wird vom Start von Etoys zu den grundlegenden
+Elementen der Umgebung alles vorgestellt.
