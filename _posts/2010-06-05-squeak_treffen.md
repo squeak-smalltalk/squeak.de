@@ -7,6 +7,7 @@ spannenden Vorträgen und zur Mitgliederversammlung des Vereins ein.**
 **Wann?**
 
 Samstag, 5. Juni 2010 ab 13:00
+
 Sonntag, 6. Juni 2010 ab 10:00
 
 **Wo?**
