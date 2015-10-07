@@ -6,10 +6,10 @@ cols:       6
 ---
 
 Neben den beiden obigen Paketen gibt es noch eine Menge anderer
-Downloads, die über die Squeak.org und Squeakland.org Webseiten
-(Englischsprachig) erreichbar sind. Darunter finden sich
-beispielsweise separate Download-Links für Squeak Images, virtuelle
-Maschinen und Sources-Dateien sowie ältere Squeak und Etoys Versionen.
+Downloads, die über die Squeak.org- und Squeakland.org-Webseiten
+(englischsprachig) erreichbar sind. Darunter finden sich
+beispielsweise separate Download-Links für Squeak-Images, virtuelle
+Maschinen (VMs) und Sources-Dateien sowie ältere Squeak- und Etoys-Versionen.
 
 <p><br></p>
 <div class="text-center">
