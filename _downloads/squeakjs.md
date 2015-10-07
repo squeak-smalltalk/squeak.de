@@ -5,11 +5,11 @@ order:      4
 cols:       6
 ---
 
-Dank Bert Freudenberg gibt es mit SqueakJS eine Squeak Variante, die
-direkt aus einem modernen Web Browser heraus zu starten ist (am Besten
-im Google Chrome oder Mozilla Firefox. Safari und der Internet
-Explorer (ab version 11) laufen langsamer). Man muss beachten, dass
-diese wesentlich langsamer läuft, als die Version zum herunterladen.
+Mit SqueakJS gibt es eine Squeak-Variante, die direkt aus einem
+modernen Webbrowser heraus startbar ist (vorzugsweise Google Chrome oder
+Mozilla Firefox; Internet Explorer ab Version 11 und Safari laufen
+langsamer). Man muss beachten, dass SqueakJS wesentlich langsamer
+ist als die Squeak-Version zum Herunterladen.
 
 <p><br></p>
 <div class="text-center">
