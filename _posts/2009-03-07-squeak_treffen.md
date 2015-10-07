@@ -19,9 +19,9 @@ Hasso-Plattner-Institut
 
 **Inhalt?**  
 
-Vorträge und Demos (13:00 - 17:00)
+Vorträge und Demos (Sa 13:00 - 17:00)
 
-Vereinsversammlung (17:00 - 18:00)
+Vereinsversammlung (Sa 17:00 - 18:00)
 
 - Bestimmung des Protokollführers und der Kassenprüfer
 - Feststellung der Beschlussfähigkeit
@@ -31,7 +31,7 @@ Vereinsversammlung (17:00 - 18:00)
 - Künftige Aktivitäten
 - Sonstiges
 
-Anschließend Ausklang in gemütlicher Runde in Potsdam (ab 18:30)
+Anschließend Ausklang in gemütlicher Runde in Potsdam (Sa ab 18:30)
 
 Vertiefung von Arbeitsthemen und Programmierprojekten (So ab 10:00)
 
