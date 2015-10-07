@@ -60,31 +60,29 @@ screenshots:
   </div> <!-- /row -->
 </div> <!-- /container -->
 
-<!-- 
- !-- <div id="screnshot-wrapper">
- !--   <div class="container">
- !--     <div id="screenshots" class="row">
- !--       {% for screenshot in page.screenshots %}
- !--       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center slideshow-item" style="{{ currentStyle }}">
- !--         <a href="#" class="screenshot-img">
- !--           <img src="{{ screenshot.img-src }}" alt="" class="img-responsive img-center">
- !--         </a>
- !--         <p class="lead">
- !--           {{ screenshot.caption }}
- !--           <a href="#" class="screenshot-button pull-left" data-target="left">
- !--             <i class="fa fa-chevron-left"></i>
- !--           </a>
- !--           <a href="#" class="screenshot-button pull-right" data-target="right">
- !--             <i class="fa fa-chevron-right"></i>
- !--           </a>
- !--         </p>
- !--       </div>
- !--         {% assign currentStyle = "display: none" %}
- !--       {% endfor %}
- !--     </div>
- !--   </div>
- !-- </div>
-  -->
+<div id="screnshot-wrapper">
+  <div class="container">
+    <div id="screenshots" class="row">
+      {% for screenshot in page.screenshots %}
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center slideshow-item" style="{{ currentStyle }}">
+        <a href="#" class="screenshot-img">
+          <img src="{{ screenshot.img-src }}" alt="" class="img-responsive img-center">
+        </a>
+        <p class="lead">
+          {{ screenshot.caption }}
+          <a href="#" class="screenshot-button pull-left" data-target="left">
+            <i class="fa fa-chevron-left"></i>
+          </a>
+          <a href="#" class="screenshot-button pull-right" data-target="right">
+            <i class="fa fa-chevron-right"></i>
+          </a>
+        </p>
+      </div>
+        {% assign currentStyle = "display: none" %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
 
 {% for collection in site.collections %}
   {% if collection[1].hidden == nil or collection[1].hidden == false %}
