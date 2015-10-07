@@ -16,8 +16,6 @@ Prof.-Dr.-Helmert-Straße 2-3
 
 Anfahrt: <http://www.hpi.uni-potsdam.de/hpi/campus/anfahrt.html>
 
-Raum: A.1.1 (wir sind wieder in Haus ABC; das ist der rote Backsteinbau rechts neben dem Hauptgebäude)
-
 **Inhalt?**  
 
 Vorträge und Demos (13:00 - 17:00)
