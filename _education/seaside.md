@@ -10,5 +10,5 @@ href:       http://www.swa.hpi.uni-potsdam.de/seaside/tutorial
 ---
 
 In diesem Tutorial für Fortgeschrittene lernt man, wie man mit dem
-Seaside Framework für Squeak eine moderne Web Anwendung mit wenig
+Seaside-Framework für Squeak eine moderne Webanwendung mit wenig
 Aufwand entwickelt.
