@@ -1,5 +1,5 @@
 ---
-Title: Squeak-Treffen am 7. Dezember 2013, Potsdam
+title: Squeak-Treffen am 7. Dezember 2013, Potsdam
 ---
 **Wir laden Euch wieder herzlich zu unserem jährlichen Squeak-Treffen mit
 spannenden Vorträgen und zur Mitgliederversammlung des Vereins ein.**
