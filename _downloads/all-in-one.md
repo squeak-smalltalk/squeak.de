@@ -6,9 +6,9 @@ cols:       6
 ---
 
 Hierbei handelt es sich um die englischsprachige Entwicklungsumgebung
-Squeak.  Im Gegensatz zu dem Etoys-Paket richtet sich dieser Download
-an fortgeschrittene Entwickler. Die Downloads funktionieren unter
-Windows, OS X und Linux. Einfach herunterladen, entpacken und auf die
+Squeak.  Im Gegensatz zum Etoys-Paket richtet sich diese Downloads
+an fortgeschrittene Entwickler. Sie funktionieren unter
+Windows, OS X und Linux: Einfach herunterladen, entpacken und auf die
 entsprechende Datei doppelklicken: `*.bat` für Windows, `*.app` für OS
 X und `*.sh` für Linux.
 
