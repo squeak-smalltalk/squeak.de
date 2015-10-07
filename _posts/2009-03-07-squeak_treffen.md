@@ -7,6 +7,7 @@ spannenden Vorträgen und zur Mitgliederversammlung des Vereins ein.**
 **Wann?**
 
 Samstag, 7. März 2009 ab 13:00
+
 Sonntag, 8. März 2009 ab 10:00
 
 **Wo?**
