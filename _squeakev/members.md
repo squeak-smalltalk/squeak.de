@@ -20,6 +20,7 @@ Mitgliedschaft oder durch Spenden unterstützt:
 
 - [ESUG (European Smalltalk User Group)](http://www.esug.org)
 - [EDV Beratung Stefan Schmiedl, Cham](http://www.approximity.com/)
+- [Hasso-Plattner-Institut, Potsdam](http://www.hpi.de/)
 - [impara GmbH, Madgeburg](http://www.impara.de/)
 - Verein Wudika, Karlsruhe
 
@@ -28,11 +29,12 @@ Spendenquittung wird für jede Spende ausgestellt.
 
 Unsere Anschrift ist:
 
-| ------------------ | ------------------------------------------- |
-| Adresse            | c/o Freudenberg, Potsdamer Str. 3a<br>39114 Magdeburg   |
-| E-Mail             | info@squeak-ev.de                           |
-| Internet           | www.squeak-ev.de                            |
-| Bankverbindung     | Konto 1433407<br>BLZ 810 932 74<br>Volksbank Magdeburg  |
+| ------------------ | --------------------------------------------------- |
+| Adresse            | c/o Freudenberg, Potsdamer Str. 3a, 39114 Magdeburg |
+| E-Mail             | info@squeak-ev.de                                   |
+| Internet           | www.squeak-ev.de                                    |
+| Bankverbindung     | Konto 1433407, BLZ 810 932 74, Volksbank Magdeburg  |
+| ------------------ | --------------------------------------------------- |
 {:.table}
 
 Der aktuelle Vorstand setzt sich zusammen aus:
@@ -43,4 +45,5 @@ Der aktuelle Vorstand setzt sich zusammen aus:
 | Kassenwart         | Rita Freudenberg                            |
 | Registergericht    | Amtsgericht Stendal                         |
 | Registernummer     | VR 1141                                     |
+| ------------------ | ------------------------------------------- |
 {:.table}
