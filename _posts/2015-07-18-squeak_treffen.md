@@ -22,11 +22,16 @@ Raum: A.1.1 (wir sind wieder in Haus ABC; das ist der rote Backsteinbau rechts n
 
 Vorträge und Demos (13:00 - 17:00)
 
-- Erfahrungsbericht Scratch (Patrizia Mietzsch)
+- Erfahrungsbericht Scratch (Patricia Bolle)
+- PathView (Nico Ring und Sven Mischkewitz)
+- GitHub-Issues in Squeak (Steffen Kötte)
 - Auto-Tester (Fabio Niephaus)
-- Ein neues Modulsystem (Matthias Springer)
-- Werkzeuge bauen (Marcel Taeumel)
+- Matriona: Ein neues Modulsystem für Squeak (Matthias Springer)
+- Werkzeuge bauen mit Vivide (Marcel Taeumel)
 - Constraint-Programmierung (Tim Felgentreff)
+- Neues von der R/Squeak-VM (Tim Felgentreff)
+- SWT-Projekte am HPI (Tobias Pape)
+- Vorstellung der neuen Webseite (Michael Perscheid)
 
 Vereinsversammlung (17:00 - 18:00)
 
