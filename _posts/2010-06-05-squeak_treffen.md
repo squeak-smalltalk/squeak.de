@@ -15,7 +15,7 @@ Hasso-Plattner-Institut
 <br /> Prof.-Dr.-Helmert-Straße 2-3
 <br /> 14482 Potsdam
 
-Anfahrt: <http://www.hpi.uni-potsdam.de/hpi/campus/anfahrt.html>
+<http://www.hpi.uni-potsdam.de/hpi/campus/anfahrt.html>
 
 **Inhalt?**  
 
