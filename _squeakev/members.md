@@ -22,6 +22,7 @@ Mitgliedschaft oder durch Spenden unterstützt:
 - [EDV Beratung Stefan Schmiedl, Cham](http://www.approximity.com/)
 - [Hasso-Plattner-Institut, Potsdam](http://www.hpi.de/)
 - [impara GmbH, Madgeburg](http://www.impara.de/)
+- [SAP Innovation Center, Potsdsam](http://icn.sap.com/)
 - Verein Wudika, Karlsruhe
 
 Der Squeak Deutschland e.V. ist als gemeinnützig anerkannt. Eine
