@@ -32,7 +32,7 @@ Unsere Anschrift ist:
 
 - Adresse:         c/o Freudenberg, Potsdamer Str. 3a, 39114 Magdeburg
 - E-Mail:          <info@squeak-ev.de>
-- Web:             <http://www.squeak-ev.de>
+- Web:             [www.squeak-ev.de](http://www.squeak-ev.de)
 - Bankverbindung:  Konto 1433407, BLZ 810 932 74, Volksbank Magdeburg
 - Registergericht: Amtsgericht Stendal
 - Registernummer:  VR 1141
