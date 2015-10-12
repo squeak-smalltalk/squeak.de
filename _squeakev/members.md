@@ -20,9 +20,9 @@ Mitgliedschaft oder durch Spenden unterstützt:
 
 - [ESUG (European Smalltalk User Group)](http://www.esug.org)
 - [EDV Beratung Stefan Schmiedl, Cham](http://www.approximity.com/)
-- [Hasso-Plattner-Institut, Potsdam](http://www.hpi.de/)
+- [Hasso-Plattner-Institut, Potsdam (HPI)](http://www.hpi.de/)
 - [impara GmbH, Madgeburg](http://www.impara.de/)
-- [SAP Innovation Center, Potsdsam](http://icn.sap.com/)
+- [SAP Innovation Center, Potsdsam (ICP)](http://icn.sap.com/)
 - Verein Wudika, Karlsruhe
 
 Der Squeak Deutschland e.V. ist als gemeinnützig anerkannt. Eine
@@ -36,6 +36,9 @@ Unsere Anschrift ist:
 | Internet           | www.squeak-ev.de                                    |
 | Bankverbindung     | Konto 1433407, BLZ 810 932 74, Volksbank Magdeburg  |
 | ------------------ | --------------------------------------------------- |
+| Registergericht    | Amtsgericht Stendal                                 |
+| Registernummer     | VR 1141                                             |
+| ------------------ | --------------------------------------------------- |
 {:.table}
 
 Der aktuelle Vorstand setzt sich zusammen aus:
@@ -44,7 +47,5 @@ Der aktuelle Vorstand setzt sich zusammen aus:
 | 1. Vorsitzender    | Michael Perscheid                           |
 | 2. Vorsitzender    | Esther Mietzsch                             |
 | Kassenwart         | Rita Freudenberg                            |
-| Registergericht    | Amtsgericht Stendal                         |
-| Registernummer     | VR 1141                                     |
 | ------------------ | ------------------------------------------- |
 {:.table}
