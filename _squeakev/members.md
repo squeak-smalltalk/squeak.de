@@ -30,22 +30,15 @@ Spendenquittung wird für jede Spende ausgestellt.
 
 Unsere Anschrift ist:
 
-| ------------------ | --------------------------------------------------- |
-| Adresse            | c/o Freudenberg, Potsdamer Str. 3a, 39114 Magdeburg |
-| E-Mail             | info@squeak-ev.de                                   |
-| Internet           | www.squeak-ev.de                                    |
-| Bankverbindung     | Konto 1433407, BLZ 810 932 74, Volksbank Magdeburg  |
-| ------------------ | --------------------------------------------------- |
-| Registergericht    | Amtsgericht Stendal                                 |
-| Registernummer     | VR 1141                                             |
-| ------------------ | --------------------------------------------------- |
-{:.table}
+- Adresse:         c/o Freudenberg, Potsdamer Str. 3a, 39114 Magdeburg
+- E-Mail:          <info@squeak-ev.de>
+- Web:             <www.squeak-ev.de>
+- Bankverbindung:  Konto 1433407, BLZ 810 932 74, Volksbank Magdeburg
+- Registergericht: Amtsgericht Stendal
+- Registernummer:  VR 1141
 
 Der aktuelle Vorstand setzt sich zusammen aus:
 
-| ------------------ | ------------------------------------------- |
-| 1. Vorsitzender    | Michael Perscheid                           |
-| 2. Vorsitzender    | Esther Mietzsch                             |
-| Kassenwart         | Rita Freudenberg                            |
-| ------------------ | ------------------------------------------- |
-{:.table}
+- Michael Perscheid (1. Vorsitzender)
+- Esther Mietzsch (2. Vorsitzende)
+- Rita Freudenberg (Kassenwart)
