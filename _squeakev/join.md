@@ -1,5 +1,5 @@
 ---
-title:      Mitgliedschaft
+title:      Informationen zur Mitgliedschaft
 front-page: false
 order:      3
 ---

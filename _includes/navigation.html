@@ -2,7 +2,7 @@
   <div class="container">
     <div class="navbar-header">
       <a id="squeak-navbar-mobile" class="visible-xs pull-left" href="/">
-        <img alt="{{ site.title }}" src="/static/img/squeak.svg" alt="">
+        <img alt="{{ site.title }}" src="/static/img/squeak.svg">
       </a>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
         <span class="sr-only">Toggle navigation</span>
@@ -15,7 +15,7 @@
       <ul class="nav navbar-nav">
         <li class="hidden-xs">
           <a id="squeak-navbar" href="/">
-            <img alt="{{ site.title }}" src="/static/img/squeak.svg" alt="">
+            <img alt="{{ site.title }}" src="/static/img/squeak.svg">
           </a>
         </li>
         <li{% if page.section.label == 'about' %} class="active"{% endif %}>
@@ -64,8 +64,8 @@
             </li>
           </ul>
         </li>
-        <li{% if page.permalink == '/lizenz/' %} class="active"{% endif %}>
-          <a href="/lizenz/">
+        <li{% if page.permalink == '/license/' %} class="active"{% endif %}>
+          <a href="/license/">
             <span class="visible-xs visible-lg">Lizenz</span>
             <span class="hidden-xs hidden-lg"><i class="fa fa-file-text-o"></i></span>
           </a>
