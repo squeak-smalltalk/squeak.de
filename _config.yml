@@ -78,4 +78,4 @@ gems:
 include: [_pages]
 
 # Exclude vendor dir which Travis uses to bundle all gems on its build servers
-exclude: [vendor, README.md, LICENSE.md, Gemfile, Rakefile]
+exclude: [vendor, README.md, LICENSE.md, Gemfile, Gemfile.lock, Rakefile, .jekyll-metadata]
