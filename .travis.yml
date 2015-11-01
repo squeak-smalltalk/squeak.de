@@ -27,7 +27,7 @@ after_success:
 - echo ".sass-cache" > .gitignore
 - git add .
 - git commit -aqm "Travis CI autocommit from travis build ${TRAVIS_BUILD_NUMBER}"
-- git push -fq origin gh-pages:gh-pages
+- git push -fq origin HEAD:gh-pages
 before_install:
 - openssl aes-256-cbc -K $encrypted_2808a4333421_key -iv $encrypted_2808a4333421_iv
   -in .deploy.enc -out ~/.ssh/deploy -d
