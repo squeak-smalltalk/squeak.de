@@ -18,14 +18,13 @@ before_script:
 script: "bundle exec rake test"
 after_success:
 - mv _site ../
-- git checkout --orphan gh-pages
-- git rm -rfq .
-- echo ".sass-cache" > .gitignore
-- mv ../_site/* .
+- cd ../_site
+- git init
 - git remote set-url origin git@github.com:squeak-smalltalk/squeak.de.git
 - git config --global user.name "Fabio Niephaus"
 - git config --global user.email "fniephaus@users.noreply.github.com"
 - git config --global push.default matching
+- echo ".sass-cache" > .gitignore
 - git add .
 - git commit -aqm "Travis CI autocommit from travis build ${TRAVIS_BUILD_NUMBER}"
 - git push -fq origin gh-pages:gh-pages
