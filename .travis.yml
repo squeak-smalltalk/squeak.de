@@ -1,23 +1,21 @@
 language: ruby
+cache: bundler
 sudo: false
 rvm:
 - 2.1
 branches:
   only:
   - master
-addons:
-  ssh_known_hosts:
-  - squeak.de
-  - 87.106.17.169
-install:
-- gem install jekyll jekyll-sitemap jekyll-redirect-from
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 before_script:
+- bundle update
 - chmod 600 ~/.ssh/deploy
 - eval `ssh-agent -s`
 - ssh-add -D
 - ssh-add ~/.ssh/deploy
-script:
-- jekyll build
+script: "bundle exec rake test"
 after_success:
 - mv _site ../
 - git checkout --orphan gh-pages
