@@ -1,5 +1,5 @@
 ---
-title:      All-in-one Paket
+title:      All-in-One Paket
 front-page: true
 order:      2
 cols:       6
@@ -8,13 +8,13 @@ cols:       6
 Hierbei handelt es sich um die englischsprachige Entwicklungsumgebung
 Squeak.  Im Gegensatz zum Etoys-Paket richtet sich diese Downloads
 an fortgeschrittene Entwickler. Sie funktionieren unter
-Windows, Mac OS X und Linux: Einfach herunterladen, entpacken und auf die
-entsprechende Datei doppelklicken: `*.bat` für Windows, `*.app` für Mac
-OS X und `*.sh` für Linux.
+Windows, macOS, und Linux: Einfach herunterladen, entpacken und auf die
+entsprechende Datei doppelklicken: `*.bat` für Windows, `*.app` für macOS, und
+`*.sh` für Linux.
 
 |            | Version   | Support   | Link   |
 | ---------- |:--------- |:--------- | ------:|
-| All-in-One | 5.0       | <i class="fa fa-windows"></i> <i class="fa fa-apple"></i> <i class="fa fa-linux"></i> | [<i class="fa fa-download"></i>][allinone]{:target="_blank"} |
+| All-in-One | 5.1       | <i class="fa fa-windows"></i> <i class="fa fa-apple"></i> <i class="fa fa-linux"></i> | [<i class="fa fa-download"></i>][allinone]{:target="_blank"} |
 {:.table .table-condensed .max-width-360-lg}
 
-[allinone]: http://ftp.squeak.org/5.0/Squeak-5.0-All-in-One.zip
+[allinone]: http://files.squeak.org/5.1/Squeak5.1-16548-32bit/Squeak5.1-16548-32bit-All-in-One.zip

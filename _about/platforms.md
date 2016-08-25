@@ -3,7 +3,7 @@ title:      Es läuft überall!
 order:      6
 img-src:    features/hardware.jpg
 ---
-Squeak läuft unter Windows, Mac OS X und Linux. Es ist auf
+Squeak läuft unter Windows, macOS, und Linux. Es ist auf
 [C.H.I.P.][chip]{:target="_blank"},
 [Raspberry Pi][raspi]{:target="_blank"} und
 [OLPC XO][olpc]{:target="_blank"} vorinstalliert.
