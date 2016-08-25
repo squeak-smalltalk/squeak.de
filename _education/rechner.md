@@ -14,4 +14,4 @@ ausführliches Tutorial, in welchem erst erklärt wird, wie man einen
 Taschenrechner mit Etoys bauen kann, um daran auch einfache
 Grundelemente von Smalltalk einzuführen. [Webseite][website]{:target="_blank"}
 
-[website]: http://www.gym-st-wolfhelm.de/faecher/informatik/VergangeneKurse/infag08/index.html
+[website]: http://gym-st-wolfhelm.nw.lo-net2.de/infag/
