@@ -28,6 +28,7 @@ Vorträge und Demos (13:00 - 17:00)
 - smalltalkCI: Automatisches Testen in der Cloud ([Fabio Niephaus](https://github.com/fniephaus))
 - TBD ([Tobias Pape](https://github.com/krono))
 - TBD ([Patrick Rein](https://github.com/codeZeilen))
+- Neuerungen in Squeak 5.1 ([Marcel Taeumel](https://github.com/marceltaeumel))
 
 Vereinsversammlung (17:00 - 18:00)
 
