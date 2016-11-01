@@ -70,6 +70,9 @@ staticurl: static/
 highlighter: pygments
 markdown: kramdown
 
+# Filtering Content
+future: true
+
 # Enable plugins
 gems:
   - jekyll-sitemap
