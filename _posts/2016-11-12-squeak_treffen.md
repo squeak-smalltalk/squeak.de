@@ -26,7 +26,6 @@ Vorträge und Demos (13:00 - 17:00)
 - Augen auf! Eye-Tracking in Squeak ([Daniel Stolpe](https://github.com/numberpi))
 - Etoys-Kurs in OpenHPI ([Jens Lincke](https://github.com/JensLincke))
 - smalltalkCI: Automatisches Testen in der Cloud ([Fabio Niephaus](https://github.com/fniephaus))
-- TBD ([Tobias Pape](https://github.com/krono))
 - TBD ([Patrick Rein](https://github.com/codeZeilen))
 - Neuerungen in Squeak 5.1 ([Marcel Taeumel](https://github.com/marceltaeumel))
 
