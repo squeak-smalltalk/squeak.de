@@ -21,7 +21,7 @@ Hasso-Plattner-Institut
 
 Vorträge und Demos (13:00 - 17:00)
 
-- PhsyicalEtoys: Chancen und Probleme (Esther Mietzsch)
+- PhysicalEtoys: Chancen und Probleme (Esther Mietzsch)
 - Knopf oder Skript? Die fähigen Nutzer grafischer Programmierwerkzeuge ([Marcel Taeumel](https://github.com/marceltaeumel))
 - Augen auf! Eye-Tracking in Squeak ([Daniel Stolpe](https://github.com/numberpi))
 - Etoys-Kurs in OpenHPI ([Jens Lincke](https://github.com/JensLincke))
