@@ -25,6 +25,7 @@ Vorträge und Demos (13:00 - 17:00)
 - Knopf oder Skript? Die fähigen Nutzer grafischer Programmierwerkzeuge ([Marcel Taeumel](https://github.com/marceltaeumel))
 - Augen auf! Eye-Tracking in Squeak ([Daniel Stolpe](https://github.com/numberpi))
 - Etoys-Kurs in OpenHPI ([Jens Lincke](https://github.com/JensLincke))
+- AG5: Produkt & Stack Evolution (Mathieu van Echtelt)
 - smalltalkCI: Automatisches Testen in der Cloud ([Fabio Niephaus](https://github.com/fniephaus))
 - Neuerungen in Squeak 5.1 ([Marcel Taeumel](https://github.com/marceltaeumel))
 
