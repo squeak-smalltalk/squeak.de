@@ -21,7 +21,7 @@ Mitgliedschaft oder durch Spenden unterstützt:
 - [ESUG (European Smalltalk User Group)](http://www.esug.org){:target="_blank"}
 - [EDV Beratung Stefan Schmiedl, Cham](http://www.approximity.com/){:target="_blank"}
 - [Hasso-Plattner-Institut, Potsdam (HPI)](http://www.hpi.de/){:target="_blank"}
-- [impara GmbH, Madgeburg](http://www.impara.de/){:target="_blank"}
+- impara GmbH, Madgeburg
 - [SAP Innovation Center, Potsdsam (ICP)](http://icn.sap.com/){:target="_blank"}
 - Verein Wudika, Karlsruhe
 
