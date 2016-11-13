@@ -16,9 +16,9 @@ permalink:      /impressum/
 
 # Vertretungsberechtigter Vorstand
 
-| ------------------ | ------------------------------------------- |
-| 1. Vorsitzender    | Michael Perscheid                           |
-| 2. Vorsitzender    | Esther Mietzsch                             |
+| ------------------ | ------------------------------------------------------ |
+| 1. Vorsitzender    | [Marcel Taeumel](http://www.taeumel.eu)                |
+| 2. Vorsitzender    | [Michael Perscheid](http://www.michaelperscheid.de)    |
 | Kassenwart         | Rita Freudenberg                            |
 | Registergericht    | Amtsgericht Stendal                         |
 | Registernummer     | VR 1141                                     |
