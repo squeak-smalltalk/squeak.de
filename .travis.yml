@@ -1,33 +1,16 @@
 language: ruby
 cache: bundler
 sudo: false
-rvm:
-- 2.1
-branches:
-  only:
-  - master
+rvm: 2.1
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-before_script:
-- bundle update
-- chmod 600 ~/.ssh/deploy
-- eval `ssh-agent -s`
-- ssh-add -D
-- ssh-add ~/.ssh/deploy
+before_script: "bundle update"
 script: "bundle exec rake test"
-after_success:
-- mv _site ../
-- cd ../_site
-- git init
-- git remote add origin git@github.com:squeak-smalltalk/squeak.de.git
-- git config --global user.name "Fabio Niephaus"
-- git config --global user.email "fniephaus@users.noreply.github.com"
-- git config --global push.default matching
-- echo ".sass-cache" > .gitignore
-- git add .
-- git commit -aqm "Travis CI autocommit from travis build ${TRAVIS_BUILD_NUMBER}"
-- git push -fq origin HEAD:gh-pages
-before_install:
-- openssl aes-256-cbc -K $encrypted_2808a4333421_key -iv $encrypted_2808a4333421_iv
-  -in .deploy.enc -out ~/.ssh/deploy -d
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local-dir: _site
+  on:
+    branch: master
