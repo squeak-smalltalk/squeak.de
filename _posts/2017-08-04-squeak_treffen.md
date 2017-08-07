@@ -13,11 +13,9 @@ Samstag, 14. Oktober 2017, ab 13 Uhr
 
 **Wo denn?**
 
-```
-Hasso-Plattner-Institut für Digital Engineering gGmbH
-Prof.-Dr.-Helmert-Str. 2-3
+Hasso-Plattner-Institut für Digital Engineering gGmbH  
+Prof.-Dr.-Helmert-Str. 2-3  
 14482 Potsdam
-```
 
 Wir sind vorauss. in der Kommunikationszone C-E im Haus ABC (http://www.hpi.de/hpi/campus/anfahrt.html).
 
