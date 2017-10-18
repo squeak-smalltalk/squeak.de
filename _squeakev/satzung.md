@@ -107,6 +107,7 @@ Vereinsregister Stendal eingetragen worden.
 ## §7: Ende der Mitgliedschaft
 
 Die Mitgliedschaft erlischt
+
 - durch Tod.
 - durch Austritt, der nur durch eine schriftliche Erklärung gegenüber
   einem Vorstandsmitglied zum Ende eines Geschäftsjahres mit einer
@@ -127,12 +128,14 @@ Die Mitgliedschaft erlischt
 ## §8: Organe des Vereins
 
 Die Organe des Vereins sind:
+
 - die Mitgliederversammlung,
 - der Vorstand.
 
 ## §9: Mitgliederversammlung
 
-A. die ordentliche Mitgliederversammlung
+### A. Die ordentliche Mitgliederversammlung
+
 - Die ordentliche Mitgliederversammlung findet jährlich einmal statt.
 - Der Vorstand lädt zu dieser Mitgliederversammlung mindestens vier
   Wochen im voraus per Email ein.
@@ -157,13 +160,17 @@ A. die ordentliche Mitgliederversammlung
   und der vertretenen stimmberechtigten Mitglieder gefasst. Bei
   Stimmgleichheit entscheidet der Vorsitzende.
 - Alle Beschlüsse sind zu protokollieren und vom Vorsitzenden und dem
-Protokollanten gegen zu zeichnen.  <hr> B. die außerordentliche
-Mitgliederversammlung Die außerordentliche Mitgliederversammlung
-findet statt, wenn:
+Protokollanten gegen zu zeichnen.
+
+### B. Die außerordentliche Mitgliederversammlung
+
+Die außerordentliche Mitgliederversammlung findet statt, wenn:
+
 - der Vorstand die Einberufung für erforderlich hält oder
 - die Einberufung von mindestens einem Viertel sämtlicher
-stimmberechtigter Mitglieder schriftlich gefordert wird.  Für die
-Durchführung gilt §9A entsprechend.
+stimmberechtigter Mitglieder schriftlich gefordert wird.
+
+Für die Durchführung gilt §9A entsprechend.
 
 ## §10: Vorstand
 
