@@ -28,5 +28,5 @@ permalink:      /impressum/
 
 | ------------------- | ----------------------- |
 | D-U-N-S-Nummer      | 314540853<br>Squeak Deutschland e.V.<br>Tel.: 0331 55093928 |
-| Ansprechpartner f.<br>Internet, Web, E-Mail | [Fabio Niephaus](http://www.fniephaus.com) |
+| Ansprechpartner f.<br>Internet, Web, E-Mail | [Fabio Niephaus](https://fniephaus.com/) |
 {:.table .impressum}
