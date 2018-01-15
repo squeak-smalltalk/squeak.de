@@ -7,10 +7,3 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 before_script: "bundle update"
 script: "bundle exec rake test"
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  local-dir: _site
-  on:
-    branch: master
