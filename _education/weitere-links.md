@@ -1,5 +1,5 @@
 ---
-category:   Links
+category:   Weitere Links
 order:      100
 ---
 
