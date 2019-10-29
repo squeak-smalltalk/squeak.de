@@ -17,14 +17,19 @@ Hasso-Plattner-Institut für Digital Engineering gGmbH
 Prof.-Dr.-Helmert-Str. 2-3  
 14482 Potsdam
 
-Wir sind vorauss. in der Kommunikationszone C-E im Haus ABC (http://www.hpi.de/hpi/campus/anfahrt.html).
+Wir sind vorauss. in der Kommunikationszone C-E im Haus ABC (https://hpi.de/medien/anfahrtlageplan.html).
 
 **Und warum?**
 
 Der genaue Ablauf befindet sich noch in der Planung. Du kannst dich auch spontan vor Ort zu einer kurzen Demo oder einem Erfahrungsbericht entscheiden. :)
 
 1. Vorträge, Demos, Diskussionen (13:00 Uhr - 17:00 Uhr)
-   - TBD
+   - Aktuelle Informationen zum kommenden Squeak 5.3
+   - Live am Beispiel: Programmieren wie die Babylonier
+   - Spiele interaktiv im ECS-Modell erstellen
+   - Zahlen, Daten, Fakten: Polyglotte Notizbücher in Morphic
+   - Zells: Nachrichtenaustausch zwischen Objekten im verteilten Raum
+   - Raspi goes Morphic: Spiele in Squeak auf kleiner Hardware
 
 2. Vereinsversammlung (17:30 Uhr - 18:15 Uhr)
    - Bestimmung des Protokollführers und der Kassenprüfer
