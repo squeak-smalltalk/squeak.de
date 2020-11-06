@@ -10,7 +10,7 @@ permalink:      /impressum/
 | Adresse            | c/o Freudenberg, Potsdamer Str. 3a<br>39114 Magdeburg   |
 | E-Mail             | info@squeak-ev.de                           |
 | Internet           | www.squeak.de/squeakev                            |
-| Bankverbindung     | Volksbank Magdeburg<br>**IBAN** DE47 8109 3274 0001 4334 07<br>**BIC** GENODEF1MD1  |
+| Bankverbindung     | VR-Bank Altenburger Land / Deutsche Skatbank<br>**IBAN** DE20 8306 5408 0004 2009 50<br>**BIC** GENO DEF1 SLR  |
 {:.table .impressum}
 
 
