@@ -13,9 +13,9 @@ Freitag, 6. November 2020, 15-16 Uhr
 
 **Wo?**
 
-Die Versammlung findet digital als Zoom Meeting statt. Ihr benötigt eine Webcam (mit Mikrofon) und einen aktuellen Web-Browser wie z.B. Firefox, Chrome, Edge, oder Safari. Alternativ könnt ihr auch einen Zoom-Client für euer Betriebssystem von [https://zoom.us/download] herunterladen. Die Zugangsdaten für das Meeting sind wie folgt:
+Die Versammlung findet digital als Zoom Meeting statt. Ihr benötigt eine Webcam (mit Mikrofon) und einen aktuellen Web-Browser wie z.B. Firefox, Chrome, Edge, oder Safari. Alternativ könnt ihr auch einen Zoom-Client für euer Betriebssystem von [https://zoom.us/download](https://zoom.us/download){:target="_blank"} herunterladen. Die Zugangsdaten für das Meeting sind wie folgt:
 
-- [https://uni-potsdam.zoom.us/j/66669910029]
+- [https://uni-potsdam.zoom.us/j/66669910029](https://uni-potsdam.zoom.us/j/66669910029){:target="_blank"}
 - Meeting ID: 666 6991 0029
 - Passcode: 80891390
 
@@ -25,7 +25,7 @@ Falls euch das zu kompliziert ist, könnt ihr euch auch einfach per Telefon einw
 - +49 695 050 2596 (Frankfurt am Main)
 - +49 69 7104 9922 (Frankfurt am Main)
 
-Falls ihr auf unerwartete Probleme stoßen solltet, könnt ihr mich kurzfristig unter [marcel.taeumel@hpi.de] kontaktieren.
+Falls ihr auf unerwartete Probleme stoßen solltet, könnt ihr mich kurzfristig unter [marcel.taeumel@hpi.de](mailto:marcel.taeumel@hpi.de) kontaktieren.
 
 **Wie?**
    - Bestimmung des Protokollführers und der Kassenprüfer
@@ -40,4 +40,4 @@ Dieses Jahr werden wir die ordentliche Mitgliederversammlung von einem Demo-Nach
 
 Bleibt gesund!
 
-[1] https://www.vereinsrecht.de/coronavirus-mitgliederversammlung-und-vorstandssitzungen-online-abhalten.html
+[1] [https://www.vereinsrecht.de/coronavirus-mitgliederversammlung-und-vorstandssitzungen-online-abhalten.html](https://www.vereinsrecht.de/coronavirus-mitgliederversammlung-und-vorstandssitzungen-online-abhalten.html){:target="_blank"}
