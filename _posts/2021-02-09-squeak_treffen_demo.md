@@ -19,7 +19,19 @@ Samstag, 6. März 2021, 15:00 bis 18:00 Uhr
 
 Die Versammlung findet digital als Zoom Meeting statt. Ihr benötigt eine Webcam (ggf. mit Mikrofon) und einen aktuellen Web-Browser wie z.B. Firefox, Chrome, Edge, oder Safari. Alternativ könnt ihr auch einen Zoom-Client für euer Betriebssystem von [https://zoom.us/download](https://zoom.us/download) herunterladen.
 
-Die Zugangsdaten für das virtuelle Meeting werden wir hier am Tag der Veranstaltung bekanntgeben.
+Die Zugangsdaten für das Meeting sind wie folgt:
+
+[https://uni-potsdam.zoom.us/j/61595939773](https://uni-potsdam.zoom.us/j/61595939773)
+Meeting ID: 615 9593 9773
+Passcode: 10202428
+
+Falls euch das zu kompliziert ist, könnt ihr euch auch einfach per Telefon einwählen. Die Kosten entsprechen normalerweise denen eines normalen Telefonanrufs bei eurem Anbieter:
+
++49 30 5679 5800 (Berlin)
++49 695 050 2596 (Frankfurt am Main)
++49 69 7104 9922 (Frankfurt am Main)
+
+Falls ihr auf unerwartete Probleme stoßen solltet, könnt ihr mich kurzfristig unter [marcel.taeumel@hpi.de](mailto:marcel.taeumel@hpi.de) kontaktieren.
 
 **Wie?**
 
@@ -56,7 +68,14 @@ Saturday, March 6, 2021, 3 p.m. to 6 p.m. CET (6 a.m. to 9 a.m. PST)
 
 The event will take place as a Zoom call. You need a webcam (maybe with a microphone) and a recent Web browser such as Firefox, Chrome, Edge, or Safari. Alternatively, you can download an app for your operating system via [https://zoom.us/download](https://zoom.us/download).
 
-We will share the login data for the virtual meeting here on the day of the event.
+The login data for the meeting is as follows:
+
+[https://uni-potsdam.zoom.us/j/61595939773](https://uni-potsdam.zoom.us/j/61595939773)
+Meeting ID: 615 9593 9773
+Passcode: 10202428
+
+If you have anymore questions, feel free to contact me under [marcel.taeumel@hpi.de](mailto:marcel.taeumel@hpi.de).
+
 
 **What will happen?**
 
@@ -67,7 +86,7 @@ Here is a preliminary agenda:
    - Like the Babylonias: Programming with Examples
    - Fast and colorful: OpenGL in Squeak
    - Use the Entire Canvas: Block-based Programming
-   - Spot off, Morph on: Squeak Game Showcase 2020
+   - Lights off, Morph on: Squeak Game Showcase 2020
    - It's Broken! How to debug the debugger =)
    - Social Media? A Telegram Bot for Squeak
 
