@@ -21,15 +21,15 @@ Die Versammlung findet digital als Zoom Meeting statt. Ihr benötigt eine Webcam
 
 Die Zugangsdaten für das Meeting sind wie folgt:
 
-[https://uni-potsdam.zoom.us/j/61595939773](https://uni-potsdam.zoom.us/j/61595939773)
-Meeting ID: 615 9593 9773
-Passcode: 10202428
+- [https://uni-potsdam.zoom.us/j/61595939773](https://uni-potsdam.zoom.us/j/61595939773)
+- Meeting ID: 615 9593 9773
+- Passcode: 10202428
 
 Falls euch das zu kompliziert ist, könnt ihr euch auch einfach per Telefon einwählen. Die Kosten entsprechen normalerweise denen eines normalen Telefonanrufs bei eurem Anbieter:
 
-+49 30 5679 5800 (Berlin)
-+49 695 050 2596 (Frankfurt am Main)
-+49 69 7104 9922 (Frankfurt am Main)
+- +49 30 5679 5800 (Berlin)
+- +49 695 050 2596 (Frankfurt am Main)
+- +49 69 7104 9922 (Frankfurt am Main)
 
 Falls ihr auf unerwartete Probleme stoßen solltet, könnt ihr mich kurzfristig unter [marcel.taeumel@hpi.de](mailto:marcel.taeumel@hpi.de) kontaktieren.
 
@@ -70,9 +70,9 @@ The event will take place as a Zoom call. You need a webcam (maybe with a microp
 
 The login data for the meeting is as follows:
 
-[https://uni-potsdam.zoom.us/j/61595939773](https://uni-potsdam.zoom.us/j/61595939773)
-Meeting ID: 615 9593 9773
-Passcode: 10202428
+- [https://uni-potsdam.zoom.us/j/61595939773](https://uni-potsdam.zoom.us/j/61595939773)
+- Meeting ID: 615 9593 9773
+- Passcode: 10202428
 
 If you have anymore questions, feel free to contact me under [marcel.taeumel@hpi.de](mailto:marcel.taeumel@hpi.de).
 
