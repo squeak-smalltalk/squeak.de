@@ -27,8 +27,8 @@ Samstag, 4. Dezember 2021, ab 13 Uhr
 Wir werden die Veranstaltung in einer hybriden Form durchführen. Nach Anmeldung könnt ihr uns vor Ort antreffen:
 
 Hasso-Plattner-Institut für Digital Engineering gGmbH
-Prof.-Dr.-Helmert-Str. 2-3
-14482 Potsdam
+<br /> Prof.-Dr.-Helmert-Str. 2-3
+<br /> 14482 Potsdam
 
 Wir sind vorauss. in der Kommunikationszone C-E im Haus ABC (https://hpi.de/medien/anfahrtlageplan.html).
 
