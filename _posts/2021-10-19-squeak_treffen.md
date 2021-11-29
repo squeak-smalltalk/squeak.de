@@ -1,6 +1,10 @@
 ---
-title: Squeak-Treffen am 4. Dezember 2021, Potsdam (und virtuell)
+title: Squeak-Treffen am 4. Dezember 2021, Potsdam (2G+ oder virtuell)
 ---
+
+**Update (29.11.):** Teilnahme vor Ort (nach Anmeldung) nur möglich, wenn geimpft/genesen und negativer Schnelltest (2G+). Sonst Teilnahme virtuell via Zoom.
+
+--------------
 
 **Liebe Squeaker, Smalltalker und Freunde objekt-orientierter, interaktiver Programmierumgebungen!**
 
@@ -14,7 +18,7 @@ Möchtest du teilnehmen oder hast du Fragen oder hast du sogar eine Idee für De
 
 Für eine Teilnahme vor Ort, bitte Anmeldung per formloser E-Mail an: marcel.taeumel@hpi.de
 
-Bitte die 3G-Regel (geimpft/genesen/getestet) beachten und trotzdem nur erscheinen, wenn ihr euch auch gesund fühlt. Im Zweifel schaltet euch einfach virtuell dazu.
+Bitte die 2G-Regel (geimpft/genesen) beachten, euch trotzdem nochmal vorher testen (2G+) und auch dann nur erscheinen, wenn ihr euch auch gesund fühlt. Im Zweifel schaltet euch einfach virtuell dazu.
 
 Wir werden vor Ort eine Teilnehmerliste führen.
 
@@ -38,7 +42,11 @@ Alternativ werden wir eine virtuelle Verbindung zum Treffpunkt via *Zoom* bereit
 
 Der genaue Ablauf befindet sich noch in der Planung. Du kannst dich auch spontan im Meeting zu einer kurzen Demo oder einem Erfahrungsbericht entscheiden. :)
 
-1. Vorträge, Demos, Diskussionen (13:00 Uhr - 16:00 Uhr)
+1. Vorträge, Demos, Diskussionen (13:00 Uhr - 16:00 Uhr, Änderungen vorbehalten)
+   - Wie die Babylonier: Programmieren am Beispiel
+   - Schnell und bunt: OpenGL in Squeak
+   - Ausbreiten statt Einengen: Block-basiertes Programmieren
+   - Die Mailingliste im Image: Diskutieren via Squeak's InboxTalk
 
 2. Vereinsversammlung (16:30 Uhr - 18:00 Uhr) 
    - Bestimmung des Protokollführers und der Kassenprüfer
