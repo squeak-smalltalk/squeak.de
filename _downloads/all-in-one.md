@@ -17,4 +17,4 @@ entsprechende Datei doppelklicken: `*.bat` für Windows, `*.app` für macOS, und
 | All-in-One | 5.2 (64-bit) | <i class="fa fa-windows"></i> <i class="fa fa-apple"></i> <i class="fa fa-linux"></i> | [<i class="fa fa-download"></i>][allinone]{:target="_blank"} |
 {:.table .table-condensed .max-width-360-lg}
 
-[allinone]: http://files.squeak.org/5.2/Squeak5.2-18221-64bit/Squeak5.2-18221-64bit-All-in-One.zip
+[allinone]: https://files.squeak.org/6.0/Squeak6.0-22104-64bit/Squeak6.0-22104-64bit-All-in-One.zip
