@@ -14,24 +14,24 @@ Dies stellt neue Herausforderungen an Erziehung und Bildung.
 
 Das Squeak Projekt möchte eine Software-Umgebung schaffen, die den Lehrenden helfen soll, dieser Herausforderung gerecht zu werden. Den Lernenden soll diese Softwareumgebung im Lernprozess unterstützen, indem sie ein Medium zum kreativen Schaffen bereitstellt.
 
-Die Squeak-Software-Umgebung ist frei verfügbar und kann von Schülern, Eltern, Lehrern und alle Interessierten kostenlos verwendet werden.
+Die Squeak-Software-Umgebung ist frei verfügbar und kann von Schüler:innen, Eltern, Lehrenden und alle Interessierten kostenlos verwendet werden.
 
 ## §1: Name und Sitz des Vereins
 
-- Der Verein führt den Namen "Squeak Deutschland e. V." mit dem Kürzel "Squeak e.V.".
+- Der Verein führt den Namen "Squeak Deutschland e.V." mit dem Kürzel "Squeak e.V.".
 - Er hat seinen Sitz in Magdeburg und ist in das zuständige Vereinsregister Stendal eingetragen worden.
 - Das Geschäftsjahr beginnt am 1. April und endet am 31. März.
 
 ## §2: Zweck und Aufgaben des Vereins
 
 - Der Zweck des Vereins ist die Förderung von Wissenschaft, Forschung, Bildung und Kunst durch die Initiierung und Unterstützung von Projekten, die mit Hilfe der freien Software-Umgebung Squeak realisiert werden. Der Verein veranstaltet allgemein zugängliche wissenschaftliche Vorträge aus den Bereichen Informatik und Pädagogik.
-- Der Verein erfüllt sein Ziel insbesondere dadurch, dass er:
-  - Die Weiterentwicklung und Verbreitung der frei kopierbaren Software Squeak betreibt.
-  - Tagungen, Kurse, Schulungen und Anwendertreffen organisiert.
-  - Wissenschaftliche Kongresse veranstaltet.
-  - Literatur fördert, die Squeak betrifft
-  - Squeak an die deutschen Anfordernisse anpasst
-  - Die Erstellung von multimedialer Kunst fördert indem er Künstler und andere Interessierte bei der Benutzung und Anpassung von Squeak unterstützt.
+- Der Verein erfüllt sein Ziel insbesondere dadurch, dass er
+  - die Weiterentwicklung und Verbreitung der Open-Source-Software Squeak betreibt,
+  - Tagungen, Kurse, Schulungen und Anwendertreffen organisiert,
+  - wissenschaftliche Kongresse veranstaltet,
+  - Literatur fördert, die Squeak betrifft,
+  - Squeak an die deutschen Anfordernisse anpasst und
+  - die Erstellung von multimedialer Kunst fördert, indem er Künstler und andere Interessierte bei der Benutzung und Anpassung von Squeak unterstützt.
 
 ## §3: Gemeinnützigkeit
 
@@ -40,10 +40,10 @@ Die Squeak-Software-Umgebung ist frei verfügbar und kann von Schülern, Eltern,
 
 ## §4: Mitgliedschaft
 
-- Mitglieder können sowohl Einzelpersonen als auch juristische Personen werden. Juristische Personen können einen Vertreter benennen.
+- Mitglieder können sowohl Einzelpersonen als auch juristische Personen werden. Juristische Personen können eine vertretende Person benennen.
 - Die Mitgliedschaft wird durch eine schriftliche Beitrittserklärung beantragt. Über den Beitritt entscheidet der Vorstand.
 - Personen unter 18 Jahren benötigen die Zustimmung eines Erziehungsberechtigten.
-- Mitglieder benötigen eine gültige EMail Adresse.
+- Mitglieder benötigen eine gültige E-Mail-Adresse.
 - Mit der Aufnahme erkennt das Mitglied die Satzung des Vereins an.
 
 ## §5: Rechte und Pflichten der Mitglieder
@@ -63,14 +63,12 @@ Die Squeak-Software-Umgebung ist frei verfügbar und kann von Schülern, Eltern,
 
 ## §7: Ende der Mitgliedschaft
 
-Die Mitgliedschaft erlischt
-
-- durch Tod.
-- durch Austritt, der nur durch eine schriftliche Erklärung gegenüber einem Vorstandsmitglied zum Ende eines Geschäftsjahres mit einer Frist von drei Monaten erfolgen kann. Mit Zugang der Austrittserklärung erlöschen alle Mitgliedsrechte. Die Beitragspflicht endet mit Ablauf des Austrittsjahres. Bei wichtigen Gründen kann der Vorstand das Ende der Beitragspflicht vorverlegen.
-- durch Ausschluss
-  - ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es seiner Beitragspflicht trotz wiederholter schriftlicher Mahnung nicht nachkommt,
-  - ein Mitglied kann durch Beschluss des Vorstandes bei grobem Verstoß gegen die Vereinssatzung ausgeschlossen werden.
-  - Dasselbe gilt bei vereinsschädigendem Verhalten des Mitglieds. Dem Mitglied ist vor dem Ausschluß Gelegenheit zur Stellungnahme zu geben.
+- Die Mitgliedschaft erlischt durch Tod.
+- Die Mitgliedschaft erlischt durch Austritt, der nur durch eine schriftliche Erklärung gegenüber einem Vorstandsmitglied zum Ende eines Geschäftsjahres mit einer Frist von drei Monaten erfolgen kann. Mit Zugang der Austrittserklärung erlöschen alle Mitgliedsrechte. Die Beitragspflicht endet mit Ablauf des Austrittsjahres. Bei wichtigen Gründen kann der Vorstand das Ende der Beitragspflicht vorverlegen.
+- Die Mitgliedschaft erlischt durch Ausschluss:
+  - Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es seiner Beitragspflicht trotz wiederholter schriftlicher Mahnung nicht nachkommt.
+  - Ein Mitglied kann durch Beschluss des Vorstandes bei grobem Verstoß gegen die Vereinssatzung ausgeschlossen werden.
+  - Ein Mitglied kann durch Beschluss des Vorstandes bei vereinsschädigendem Verhalten ausgeschlossen werden. Dem Mitglied ist vor dem Ausschluss Gelegenheit zur Stellungnahme zu geben.
 
 ## §8: Organe des Vereins
 
@@ -90,12 +88,12 @@ Die Organe des Vereins sind:
 - Die Mitgliederversammlung nimmt die Rechenschaftsberichte des ersten Vorsitzenden, des Schatzmeisters und der Kassenprüfer entgegen und erteilt Entlastung.
 - Sie genehmigt den Vorschlag des Vorstands über den Mitgliedsbeitrag für das jeweils nächste Jahr.
 - Sie wählt folgende Mitglieder des Vorstands:
-  - den Vorsitzenden,
-  - den stellvertretenden Vorsitzenden und
-  - den Schatzmeister.
+  - den/die Vorsitzende(n),
+  - den/die stellvertretende(n) Vorsitzende(n) und
+  - den/die Schatzmeister(in).
 - Die Mitgliederversammlung wählt zusätzlich zwei Kassenprüfer.
-- Sämtliche Beschlüsse werden mit einfacher Mehrheit der anwesenden und der vertretenen stimmberechtigten Mitglieder gefasst. Bei Stimmgleichheit entscheidet der Vorsitzende.
-- Alle Beschlüsse sind zu protokollieren und vom Vorsitzenden und dem Protokollanten gegen zu zeichnen.
+- Sämtliche Beschlüsse werden mit einfacher Mehrheit der anwesenden und der vertretenen stimmberechtigten Mitglieder gefasst. Bei Stimmgleichheit entscheidet der/die Vorsitzende.
+- Alle Beschlüsse sind zu protokollieren und von dem/der Vorsitzenden und der Protokollant:in gegen zu zeichnen.
 
 ### B. Die außerordentliche Mitgliederversammlung
 
@@ -109,25 +107,25 @@ Für die Durchführung gilt §9A entsprechend.
 ## §10: Vorstand
 
 - Der Vorstand besteht aus:
-  - dem Vorsitzenden,
-  - dem stellvertretenden Vorsitzenden und
-  - dem Schatzmeister.
-- An Vorstandssitzungen können zusätzlich ohne Stimmrecht teilnehmen: die Kassenprüfer und vom Vorstand eingeladene Gäste.
+  - dem/der Vorsitzenden,
+  - dem/der stellvertretenden Vorsitzenden und
+  - dem/der Schatzmeister(in).
+- An Vorstandssitzungen können zusätzlich ohne Stimmrecht teilnehmen: die Kassenprüfer:innen und vom Vorstand eingeladene Gäste.
 - Die Amtsperiode der Vorstandsmitglieder dauert jeweils drei Jahre. Sie verlängert sich nach dieser Zeit automatisch bis zum Zeitpunkt der nächsten ordentlichen Mitgliederversammlung. Eine Wiederwahl der Vorstandsmitglieder ist zulässig.
-- Der Vorsitzende, der stellvertretende Vorsitzende und der Schatzmeister vertreten den Verein nach außen jeweils allein.
+- Der/Die Vorsitzende, der/die stellvertretende Vorsitzende und der/die Schatzmeister:in vertreten den Verein nach außen jeweils allein.
 - Der Vorstand entscheidet über Anträge zur Verwendung der Mittel des Vereins.
 - Sämtliche Beschlüsse des Vorstands werden mit einfacher Mehrheit der anwesenden Mitglieder getroffen. Bei Stimmengleichheit entscheidet das Votum des Vorsitzenden. Jedes Mitglied hat eine Stimme, auch wenn es mehrere Funktionen innerhalb des Vorstandes vertritt.
 - Der Vorstand hat den der ordentlichen Mitgliederversammlung vorzulegenden Jahresbericht abzuzeichnen.
 - Jedes Vorstandsmitglied hat die weiteren Mitglieder des Vorstands über die Vereinsangelegenheiten auf dem Laufenden zu halten.
-- Der Schatzmeister hat jährlich der ordentlichen Mitgliederversammlung einen Kassenbericht vorzutragen, zuvor hat eine Prüfung der Kasse durch die zwei gewählten Kassenprüfer zu erfolgen.
-- Der Schatzmeister stellt im Benehmen mit dem Vorstand zu Beginn des Geschäftsjahres einen Haushaltsplan auf, welcher der Mitgliederversammlung vorzulegen ist.
+- Der/Die Schatzmeister:in hat jährlich der ordentlichen Mitgliederversammlung einen Kassenbericht vorzutragen, zuvor hat eine Prüfung der Kasse durch die zwei gewählten Kassenprüfer:innen zu erfolgen.
+- Der/Die Schatzmeister:in stellt im Benehmen mit dem Vorstand zu Beginn des Geschäftsjahres einen Haushaltsplan auf, welcher der Mitgliederversammlung vorzulegen ist.
 - Bei Ausscheiden eines Vorstandsmitgliedes ist der Vorstand berechtigt, ein neues Mitglied kommissarisch bis zur nächsten Mitgliederversammlung zu berufen.
 - Der Vorstand gibt sich eine Geschäftsordnung.
 - Aufwendungen, die dem Vorstand im Rahmen der Vereinsführung anfallen, sind zu ersetzen. Im Übrigen erhalten die Mitglieder keine Zuwendungen aus Mitteln des Vereins.
 
 ## §11: Protokollierung von Beschlüssen
 
-Über die Beschlüsse der Mitgliederversammlung und des Vorstandes ist ein Protokoll anzufertigen, das außer dem Protokollanten selbst auch der Vorsitzende oder sein Stellvertreter unterzeichnen.
+Über die Beschlüsse der Mitgliederversammlung und des Vorstandes ist ein Protokoll anzufertigen, das außer dem Protokollanten (bzw. der Protokollatin) selbst auch der/die Vorsitzende oder sein/ihr Stellvertreter:in unterzeichnen.
 
 ## §12: Satzungsänderungen und Auflösung des Vereins
 
