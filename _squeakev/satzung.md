@@ -83,9 +83,9 @@ Die Organe des Vereins sind:
 - Der Vorstand lädt zu dieser Mitgliederversammlung mindestens vier Wochen im voraus per E-Mail ein.
 - Mit der Einladung wird auch die vorläufige Tagesordnung versandt. Zusätzliche Anträge müssen bis spätestens zwei Wochen vor der Mitgliederversammlung schriftlich beim Vorstand vorliegen oder durch einen Mehrheitsbeschluss in der Mitgliederversammlung zugelassen werden.
 - Die Mitgliederversammlung ist ohne Rücksicht auf die Anzahl der erschienenen Mitglieder beschlussfähig.
-- Die Mitgliederversammlung nimmt die Rechenschaftsberichte der ersten Vorsitzenden/des ersten Vorsitzenden, der Schatzmeisterin/des Schatzmeisters und der Kassenprüferinnen/der Kassenprüfer entgegen und erteilt Entlastung.
-- Sie genehmigt den Vorschlag des Vorstands über den Mitgliedsbeitrag für das jeweils nächste Jahr.
-- Sie wählt folgende Mitglieder des Vorstands:
+- Die Mitgliederversammlung nimmt die Rechenschaftsberichte der Vorsitzenden/des Vorsitzenden, der Schatzmeisterin/des Schatzmeisters und der Kassenprüferinnen/der Kassenprüfer entgegen und erteilt Entlastung. Dabei wird der Kassenbericht zuvor nach § 10 vorgetragen und geprüft.
+- Die Mitgliederversammlung genehmigt den Vorschlag des Vorstands über den Mitgliedsbeitrag für das jeweils nächste Jahr.
+- Die Mitgliederversammlung wählt folgende Mitglieder des Vorstands:
   - die Vorsitzende/den Vorsitzenden,
   - die stellvertretende Vorsitzende/den stellvertretenden Vorsitzenden und
   - die Schatzmeisterin/den Schatzmeister.
@@ -108,20 +108,24 @@ Für die Durchführung gilt §9a entsprechend.
   - der Vorsitzenden/dem Vorsitzenden,
   - der stellvertretenden Vorsitzenden/dem stellvertretenden Vorsitzenden und
   - der Schatzmeisterin/dem Schatzmeister.
-- An Vorstandssitzungen können zusätzlich ohne Stimmrecht teilnehmen:
-  - die Kassenprüferinnen/Kassenprüfer und
-  - vom Vorstand eingeladene Gäste.
+- Die Vorsitzende/der Vorsitzende wird auch "die erste Vorsitzende/der erste Vorsitzende" genannt. Der stellvertretende Vorsitzende/der stellvertretende Vorsitzende wird auch "die zweite Vorsitzende/der zweite Vorsitzende" genannt.
 - Die Amtsperiode der Vorstandsmitglieder dauert jeweils drei Jahre. Sie verlängert sich nach dieser Zeit automatisch bis zum Zeitpunkt der nächsten ordentlichen Mitgliederversammlung. Eine Wiederwahl der Vorstandsmitglieder ist zulässig.
-- Die Vorsitzende/der Vorsitzende, die stellvertretende Vorsitzende/der stellvertretende Vorsitzende und die Schatzmeisterin/der Schatzmeister vertreten den Verein nach außen jeweils allein.
-- Der Vorstand entscheidet über Anträge zur Verwendung der Mittel des Vereins.
-- Sämtliche Beschlüsse des Vorstands werden mit einfacher Mehrheit der anwesenden Mitglieder getroffen. Bei Stimmengleichheit entscheidet das Votum der Vorsitzenden/des Vorsitzenden. Jedes Mitglied hat eine Stimme, auch wenn es mehrere Funktionen innerhalb des Vorstandes vertritt.
+- Jedes Vorstandsmitglied vertritt den Verein nach außen jeweils allein.
 - Der Vorstand hat den der ordentlichen Mitgliederversammlung vorzulegenden Jahresbericht abzuzeichnen.
 - Jedes Vorstandsmitglied hat die weiteren Mitglieder des Vorstands über die Vereinsangelegenheiten auf dem Laufenden zu halten.
-- Die Schatzmeisterin/der Schatzmeister hat jährlich der ordentlichen Mitgliederversammlung einen Kassenbericht vorzutragen, zuvor hat eine Prüfung der Kasse durch die zwei gewählten Kassenprüferinnen/Kassenprüfer zu erfolgen.
+- Die Schatzmeisterin/der Schatzmeister hat jährlich in der ordentlichen Mitgliederversammlung einen Kassenbericht vorzutragen, zuvor hat eine Prüfung der Kasse durch die zwei gewählten Kassenprüferinnen/Kassenprüfer zu erfolgen.
 - Die Schatzmeisterin/der Schatzmeister stellt im Benehmen mit dem Vorstand zu Beginn des Geschäftsjahres einen Haushaltsplan auf, welcher der Mitgliederversammlung vorzulegen ist.
 - Bei Ausscheiden eines Vorstandsmitgliedes ist der Vorstand berechtigt, ein neues Mitglied kommissarisch bis zur nächsten Mitgliederversammlung zu berufen.
 - Der Vorstand gibt sich eine Geschäftsordnung.
 - Aufwendungen, die dem Vorstand im Rahmen der Vereinsführung anfallen, sind zu ersetzen. Im Übrigen erhalten die Mitglieder keine Zuwendungen aus Mitteln des Vereins.
+
+## § 10a Vorstandssitzungen
+
+- An Vorstandssitzungen können zusätzlich ohne Stimmrecht teilnehmen:
+  - die Kassenprüferinnen/Kassenprüfer und
+  - vom Vorstand eingeladene Gäste.
+- Der Vorstand entscheidet über Anträge zur Verwendung der Mittel des Vereins.
+- Sämtliche Beschlüsse des Vorstands werden mit einfacher Mehrheit der anwesenden Mitglieder getroffen. Bei Stimmengleichheit entscheidet das Votum der Vorsitzenden/des Vorsitzenden. Jedes Mitglied hat eine Stimme, auch wenn es mehrere Funktionen innerhalb des Vorstandes vertritt.
 
 ## § 11 Protokollierung von Beschlüssen
 
