@@ -100,7 +100,13 @@ Die außerordentliche Mitgliederversammlung findet statt, wenn:
 - der Vorstand die Einberufung für erforderlich hält oder
 - die Einberufung von mindestens einem Viertel sämtlicher stimmberechtigter Mitglieder schriftlich gefordert wird.
 
-Für die Durchführung gilt §9a entsprechend.
+Für die Durchführung gilt § 9a entsprechend.
+
+## § 9c Virtuelle Durchführung
+
+- Die Durchführung nach § 9a darf virtuell erfolgen. Dabei treffen sich Vorstand und Mitglieder in einer Telefon- oder Videokonferenz über das Internet oder vergleichbarem Weg der Telekommunikation.
+- Die Stimmabgabe erfolgt dann per E-Mail, Fax oder anderem vertrauenswürdigen Mechanismus des benutzten Werkzeugs zur Telekommunikation.
+- Die virtuelle Durchführung kann hybrid erfolgen.
 
 ## § 10 Vorstand
 
