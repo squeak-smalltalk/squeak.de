@@ -47,7 +47,7 @@ Der genaue Ablauf befindet sich noch in der Planung. Du kannst dich auch spontan
    - Pausenlos virtuell: Block-basiertes Programmieren in VR
    - Scharf aber zugänglich: Squeak 6.0 ist da
    - Finden statt Suchen: Der Method-Finder wird abgesichert
-   - Objectland: Die multimediale Schätze aus Squeak 3 sind wieder da
+   - Objectland: Die multimedialen Schätze aus Squeak 3 sind wieder da
    - ...
 
 2. Vereinsversammlung (16:30 Uhr - 18:00 Uhr, **nicht virtuell**) 
