@@ -24,7 +24,7 @@ Wir werden vor Ort eine Teilnehmerliste führen.
 
 **Wann treffen wir uns?**
 
-Samstag, 19. November 2021, ab 13 Uhr
+Samstag, 19. November 2022, ab 13 Uhr
 
 **Wo treffen wir uns?**
 
