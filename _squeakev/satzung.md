@@ -4,7 +4,7 @@ front-page: false
 order: 5
 ---
 
-in der Fassung vom 20. Oktober 2022
+in der Fassung vom 21. Oktober 2022
 
 ## Präambel
 
@@ -42,7 +42,7 @@ Die Squeak-Software-Umgebung ist frei verfügbar und kann von Schülerinnen/Sch�
 
 - Mitglieder können sowohl Einzelpersonen als auch juristische Personen werden. Juristische Personen können eine Vertreterin/einen Vertreter benennen.
 - Die Mitgliedschaft wird durch eine schriftliche Beitrittserklärung beantragt. Über den Beitritt entscheidet der Vorstand.
-- Personen unter 18 Jahren benötigen die Zustimmung einer/eines Erziehungsberechtigten.
+- Personen unter 18 Jahren benötigen die Zustimmung einer Erziehungsberechtigten/eines Erziehungsberechtigten.
 - Mitglieder benötigen eine gültige E-Mail-Adresse.
 - Mit der Aufnahme erkennt das Mitglied die Satzung des Vereins an.
 
@@ -114,7 +114,7 @@ Für die Durchführung gilt § 9a entsprechend.
   - der Vorsitzenden/dem Vorsitzenden,
   - der stellvertretenden Vorsitzenden/dem stellvertretenden Vorsitzenden und
   - der Schatzmeisterin/dem Schatzmeister.
-- Die Vorsitzende/der Vorsitzende wird auch "die erste Vorsitzende/der erste Vorsitzende" genannt. Der stellvertretende Vorsitzende/der stellvertretende Vorsitzende wird auch "die zweite Vorsitzende/der zweite Vorsitzende" genannt.
+- Die Vorsitzende/der Vorsitzende wird auch "die erste Vorsitzende/der erste Vorsitzende" genannt. Dîe stellvertretende Vorsitzende/der stellvertretende Vorsitzende wird auch "die zweite Vorsitzende/der zweite Vorsitzende" genannt.
 - Die Amtsperiode der Vorstandsmitglieder dauert jeweils drei Jahre. Sie verlängert sich nach dieser Zeit automatisch bis zum Zeitpunkt der nächsten ordentlichen Mitgliederversammlung. Eine Wiederwahl der Vorstandsmitglieder ist zulässig.
 - Jedes Vorstandsmitglied vertritt den Verein nach außen jeweils allein.
 - Der Vorstand hat den der ordentlichen Mitgliederversammlung vorzulegenden Jahresbericht abzuzeichnen.
@@ -139,7 +139,8 @@ Für die Durchführung gilt § 9a entsprechend.
 
 ## § 12 Satzungsänderungen und Auflösung des Vereins
 
-- Die Mitgliederversammlung kann eine Satzungsänderung des Vereins nur durch eine Mehrheit von drei Viertel der erschienen und vertretenen Mitglieder beschließen. Der Einladung ist der Text der geplanten Satzungsänderung beizulegen.
+- Die Mitgliederversammlung kann eine Satzungsänderung des Vereins nur durch eine Mehrheit von drei Viertel der erschienen und vertretenen Mitglieder beschließen.
+- Der Einladung zur Mitgliederversammlung ist der Text der geplanten Satzungsänderung beizulegen. Weitere Anpassungen können bis zu zwei Wochen vor der Versammlung eingepflegt und zur Einladung nachgereicht werden.
 - Die Mitgliederversammlung kann die Auflösung des Vereins nur durch eine Mehrheit von drei Viertel der erschienen und vertretenen Mitglieder beschließen. Hierzu ist mindestens 4 Wochen vorher unter Angabe des Zwecks einzuladen.
 - Das Vermögen des Vereins wird bei seiner Auflösung einer gemeinnützigen Institution im wissenschaftlich/technischen Bereich übereignet.
 
