@@ -8,13 +8,13 @@ in der Fassung vom 21. Oktober 2022
 
 ## Präambel
 
-Computer eröffnen neue Möglichkeiten, Ideen zu entwickeln und auszuprobieren, seien sie künstlerischer oder wissenschaftlicher Natur, auch können Lernende komplexe Sachverhalte besser verstehen, wenn diese mit Hilfe des Computers multimedial aufbereitet und simuliert werden.
+Die digitale Welt bietet Möglichkeiten, neue Ideen zu entwickeln und auszuprobieren, seien sie künstlerischer oder wissenschaftlicher Natur, auch können Lernende und Forschende komplexe Sachverhalte besser verstehen, wenn diese mit Hilfe digitaler Umgebungen multimedial aufbereitet und simuliert werden.
 
-Dies stellt neue Herausforderungen an Erziehung und Bildung.
+Dies stellt neue Herausforderungen an Erziehung und Bildung, sowie unser grundlegendes Verständnis von digitalen Werkzeugen und deren Auswirkungen.
 
-Das Squeak-Projekt möchte eine Software-Umgebung schaffen, die den Lehrenden helfen soll, dieser Herausforderung gerecht zu werden. Den Lernenden soll diese Software-Umgebung im Lernprozess unterstützen, indem sie ein Medium zum kreativen Schaffen bereitstellt.
+Das Squeak-Projekt repräsentiert eine Software-Umgebung, die in Lehre und Forschung helfen soll, diesen Herausforderungen gerecht zu werden. In der Lehre soll diese Software-Umgebung im Lernprozess unterstützen, indem sie ein Medium zum kreativen Schaffen bereitstellt. In der Forschung soll sie den wissenschaftlichen Prozess begleiten, indem neue Hypothesen effizient überprüft werden können.
 
-Die Squeak-Software-Umgebung ist frei verfügbar und kann von Schülerinnen/Schülern, Eltern, Lehrenden und allen Interessierten kostenlos verwendet werden.
+Die Squeak-Software-Umgebung ist frei und quelloffen und kann von allen Interessierten kostenlos verwendet werden.
 
 ## § 1 Name und Sitz des Vereins
 
