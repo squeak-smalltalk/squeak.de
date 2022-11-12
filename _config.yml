@@ -6,8 +6,7 @@ url: https://squeak.de
 # SEO
 author: Squeak Deutschland e.V.
 description: >-
-  Squeak ist eine moderne, freie, und quelloffene Programmierumgebung
-  der Smalltalk Sprache.
+  Squeak ist eine moderne, freie, und quelloffene Programmierumgebung für die Sprache Smalltalk.
 twitter:
   username: squeaksmalltalk
 logo: /static/img/squeak.png
