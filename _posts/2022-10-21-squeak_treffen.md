@@ -36,7 +36,21 @@ Hasso-Plattner-Institut für Digital Engineering gGmbH
 
 Wir sind voraussichtlich in der Kommunikationszone C-E im Haus ABC (https://hpi.de/medien/anfahrtlageplan.html).
 
-Alternativ werden wir eine virtuelle Verbindung zum Treffpunkt via *Zoom* bereitstellen. Details dazu werden wir am Tag der Veranstaltung hier bekanntgeben.
+Alternativ stellen wir eine virtuelle Verbindung zum Treffpunkt via *Zoom* bereit. Ihr benötigt eine Webcam (ggf. mit Mikrofon) und einen aktuellen Web-Browser wie z.B. Firefox, Chrome, Edge, oder Safari. Alternativ könnt ihr auch einen Zoom-Client für euer Betriebssystem von [https://zoom.us/download](https://zoom.us/download) herunterladen.
+
+Die Zugangsdaten für das Meeting sind wie folgt:
+
+- [https://uni-potsdam.zoom.us/j/69321023412](https://uni-potsdam.zoom.us/j/69321023412)
+- Meeting ID: 693 2102 3412
+- Passcode: 77469277
+
+Falls euch das zu kompliziert ist, könnt ihr euch auch einfach per Telefon einwählen. Die Kosten entsprechen normalerweise denen eines normalen Telefonanrufs bei eurem Anbieter:
+
+- +49 30 5679 5800 (Berlin)
+- +49 695 050 2596 (Frankfurt am Main)
+- +49 69 7104 9922 (Frankfurt am Main)
+
+Falls ihr auf unerwartete Probleme stoßen solltet, könnt ihr mich kurzfristig unter [marcel.taeumel@hpi.de](mailto:marcel.taeumel@hpi.de) kontaktieren.
 
 **Wir wird das ablaufen?**
 
