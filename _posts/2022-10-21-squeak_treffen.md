@@ -2,7 +2,7 @@
 title: Squeak-Treffen am 19. November 2022, Potsdam (2G+ oder virtuell)
 ---
 
-**Hinweis:** Teilnahme vor Ort (nach Anmeldung) nur möglich, wenn geimpft/genesen und negativer Schnelltest (2G+). Sonst Teilnahme an Demos und Vorträgen virtuell via Zoom möglich.
+**Hinweis:** Teilnahme vor Ort (nach Anmeldung) nur möglich, wenn geimpft/genesen und negativer Schnelltest (2G+). Sonst Teilnahme an Demos und Vorträgen virtuell via Zoom möglich..
 
 --------------
 
