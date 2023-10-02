@@ -10,7 +10,7 @@ Wir laden euch wieder herzlich zu unserem jährlichen Treffen des Squeak Deutsch
 
 Möchtest du teilnehmen oder hast du Fragen oder hast du sogar eine Idee für Demo/Vortrag/Diskussion? Melde dich bei uns, damit wir besser planen können. Wir möchten zeitlich flexibel bleiben und würden für jeden Vortragenden ungefähr 15 bis 45 Minuten zur Orientierung einplanen.
 
-Für eine Teilnahme vor Ort, bitte Anmeldung per formloser E-Mail an: marcel.taeumel@hpi.de
+Für eine Teilnahme vor Ort, bitte Anmeldung per formloser E-Mail an: <marcel.taeumel@hpi.de>
 
 **Wann treffen wir uns?**
 
@@ -24,7 +24,7 @@ Hasso-Plattner-Institut für Digital Engineering gGmbH
 <br /> Prof.-Dr.-Helmert-Str. 2-3
 <br /> 14482 Potsdam
 
-Wir sind voraussichtlich in der Kommunikationszone C-E im Haus ABC (https://hpi.de/medien/anfahrtlageplan.html).
+Wir sind voraussichtlich in der Kommunikationszone C-E im Haus ABC (<https://hpi.de/medien/anfahrtlageplan.html>).
 
 Alternativ stellen wir eine virtuelle Verbindung zum Treffpunkt via *Zoom* bereit.
 
@@ -39,7 +39,8 @@ Der genaue Ablauf befindet sich noch in der Planung. Du kannst dich auch spontan
    - Wie kann Squeak mehrere CPU-Kerne ausnutzen?
    - Wie kann man GPU-Shader aus Squeak heraus programmieren?
    - Wie funktioniert eigentlich Squeak's Infrastruktur?
-   - ...
+   - Wie programmiert man mit Blöcken ohne Etoys?
+   - ... Und was machst du so mit Squeak? :-) ...
 
 2. Vereinsversammlung (16:30 Uhr - 18:00 Uhr) 
    - Bestimmung des Protokollführers und der Kassenprüfer
