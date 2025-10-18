@@ -43,6 +43,7 @@ Der genaue Ablauf befindet sich noch in der Planung. Du kannst dich auch spontan
    - Feststellung der Beschlussfähigkeit
    - Vorstellung / Änderung der Tagesordnung
    - Aktivitäten des Vereins 2024-2025
+   - **Wahl des Vorstands**
    - Bericht des Schatzmeisters und der Kassenprüfer
    - Künftige Aktivitäten
    - Sonstiges
