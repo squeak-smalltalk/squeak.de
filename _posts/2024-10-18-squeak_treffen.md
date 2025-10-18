@@ -33,9 +33,8 @@ Alternativ stellen wir eine virtuelle Verbindung zum Treffpunkt via *Zoom* berei
 Der genaue Ablauf befindet sich noch in der Planung. Du kannst dich auch spontan im Meeting zu einer kurzen Demo oder einem Erfahrungsbericht entscheiden. :)
 
 1. Vorträge, Demos, Diskussionen (13:00 Uhr - 16:00 Uhr, Änderungen vorbehalten)
-   - Wie kann dir eine KI beim Explorieren der Objekte zur Seite stehen?
-   - Wie können visuelle Elemente unverständlichen Programmtext anschaulicher gestalten?
-   - Wie baut man sich eine eigene Programmiersprache?
+   - Wie funktioniert Squeak in der "virtuellen Realität" (VR)?
+   - Wie wartet man die virtuelle Maschine für Squeak?
    - Was für neue Spiele gibt es so für Squeak? :)
    - ... Und was machst du so mit Squeak? :-) ...
 
