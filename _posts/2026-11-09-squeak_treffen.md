@@ -33,7 +33,7 @@ Alternativ stellen wir eine virtuelle Verbindung zum Treffpunkt über *Zoom* ode
 Der genaue Ablauf befindet sich noch in der Planung. Du kannst dich auch spontan im Meeting zu einer kurzen Demo oder einem Erfahrungsbericht entscheiden. 😎
 
 1. Vorträge, Demos, Diskussionen (13:00 Uhr - 17:00 Uhr, Änderungen vorbehalten)
-    - Squeak 6.1 ist da! Was gibt es für Neuerungen?
+    - [Squeak 6.1 ist da!](https://squeak.org/release_notes/6.1/) Was gibt es für Neuerungen?
     - Eine kurze Tour durch "Objectland" (Squeak 6.1)
     - Was für neue Spiele gibt es so für Squeak? 🙂
     - ... Und was machst du so mit Squeak? 😉 ...
